@@ -1,0 +1,50 @@
+nav.contacte {
+    background-color: limegreen;
+    
+}
+header{
+    background-color: crimson;
+    color: limegreen;
+}
+
+
+div.rojo {
+    background-color: crimson;
+    width: 33%;
+    height: 40px;
+   display: inline-block;
+}
+
+div.verde {
+    background-color: limegreen;
+    width: 33%;
+    height: 40px;
+    display: inline-block;
+}
+
+div.rojo2 {
+    background-color: crimson;
+    width: 75px;
+    height: 50px;
+   display: block;
+}
+
+div.verde2 {
+    background-color: limegreen;
+    width: 75px;
+    height: 50px;
+    display: block;
+}
+div.rojo3 {
+    background-color: crimson;
+    width: 70px;
+    height: 50px;
+   display: inline;
+}
+
+div.verde3 {
+    background-color: limegreen;
+    width: 70px;
+    height: 50px;
+    display: inline;
+}
